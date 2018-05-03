@@ -26,3 +26,13 @@ body{
 	display: inline-block;
 	padding: 20px;
 }
+
+td{
+	padding: 10px;
+	text-align: center;
+}
+
+td img{ 
+width: 128px;
+height: 128px;
+}
