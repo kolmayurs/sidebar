@@ -1,0 +1,28 @@
+body{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.sidebar{
+	width: 30%;
+	max-width: 300px;
+	overflow: auto;
+	float: left;
+	background: #f1f1f1;
+	padding: 10px;
+	display: inline-block;
+}
+
+.list{
+	font-size: 20px;
+	padding: 5px;
+	line-height: 24px;
+}
+
+.right-bar{
+	float: left;
+	width: 70%;
+	display: inline-block;
+	padding: 20px;
+}
